@@ -12,6 +12,12 @@
 7.Give powersuply to arduino and GSM Module seperately.
 
 
+
+
+
+
+
+
 ![1](https://user-images.githubusercontent.com/82075825/114061435-1479e480-98b4-11eb-981e-5dbbe8ffbac1.PNG)
 ![2](https://user-images.githubusercontent.com/82075825/114061458-193e9880-98b4-11eb-90fd-11f95da0373f.PNG)
 ![3](https://user-images.githubusercontent.com/82075825/114061477-1cd21f80-98b4-11eb-951d-9131700ea13f.PNG)
