@@ -5,13 +5,13 @@
 # How To Use:
 1.Install Arduino IDE.<br>
 2.Open the coce in IDE.<br>
-3.Connect the Arduino to through USB.
-4.Change the wifi SSID and Password to your personal one.
-5.Upload the code.
-6.Do the connections of pins according to the code.
-7.Give powersuply to arduino and GSM Module seperately.
+3.Connect the Arduino to through USB.<br>
+4.Change the wifi SSID and Password to your personal one.<br>
+5.Upload the code.<br>
+6.Do the connections of pins according to the code.<br>
+7.Give powersuply to arduino and GSM Module seperately.<br>
 
-
+<br><br><br>
 
 
 
