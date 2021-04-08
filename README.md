@@ -3,8 +3,8 @@
 
 
 # How To Use:
-1.Install Arduino IDE.
-2.Open the coce in IDE.
+1.Install Arduino IDE.<br>
+2.Open the coce in IDE.<br>
 3.Connect the Arduino to through USB.
 4.Change the wifi SSID and Password to your personal one.
 5.Upload the code.
